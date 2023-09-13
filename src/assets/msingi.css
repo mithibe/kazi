@@ -1,0 +1,13 @@
+:root{
+    --background: url(../components/images/patternpad.svg);
+    --glass-white: #ffffff55;
+    --glass-black: #00000055;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    background: url(../components/images/patternpad.svg);
+}
